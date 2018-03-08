@@ -14,7 +14,7 @@
 
   $school = " ZŠ Svítkov" ;
 
-
+ // čau lidi
 
 
 
